@@ -117,18 +117,21 @@ style.css
 .awards-company-name {
     font-size: 25px;
     font-weight: bold;
+    color: #F1F8FD;
 }
 
 .exp-time-period,
-.educationp-time-period,
+.education-time-period,
 .awards-time-period {
     font-size: 18px;
+    color: #F1F8FD;
 }
 
 .exp-position,
 .education-subject,
 .awards-name {
     font-size: 25px;
+    color: #F1F8FD;
 }
 
 .exp-desc,
@@ -136,4 +139,5 @@ style.css
 .awards-desc {
     font-size: 16px;
     padding-left: 5px;
+    color: #F1F8FD;
 }
